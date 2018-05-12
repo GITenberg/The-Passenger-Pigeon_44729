@@ -1,0 +1,44 @@
+_repo: The-Passenger-Pigeon_44729
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44729-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Mershon, Wm. B. (William Butts)
+    aliases:
+    - Mershon, W. B. (William Butts)
+    - Mershon, William Butts
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '42890'
+    url: http://www.gutenberg.org/2009/agents/42890
+description: ''
+gutenberg_issued: '2014-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44729'
+  lccn: '07012260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcsh 'Passenger pigeon'
+- !lcc 'QL'
+tableOfContents: Introduction -- My boyhood among the pigeons -- The passenger pigeon,
+  from "American ornithology", by A. Wilson -- The passenger pigeon, from "Ornithological
+  biography", by J.J. Audubon -- As James Fenimore Cooper saw it -- The wild pigeon
+  of North America by Chief Pokagon, in "The Chautauquan" -- The passenger pigeon,
+  from "Life histories of North American birds", by C. Bendire -- Netting the pigeons,
+  by W. Brewster, in "The Auk" -- Efforts to check the slaughter, by Prof. H.B. Roney
+  -- The pigeon butcher's defense, by E.T. Martin, in "American field" -- Notes of
+  a vanished industry -- Recollections of "old timers" -- The last of the pigeons
+  -- What became of the wild pigeon? By S. Cook, in "Forest and stream" -- A novel
+  theory of extinction, by C.H. Ames and R. Ridgway -- News from John Burroughs --
+  The pigeon in Manitoba, by G.E. Atkinson -- The passenger pigeon in confinement,
+  by R. Deane, in "The Auk" -- Nesting habits of the passenger pigeon, by Dr. M. Gibbs,
+  in "The oölogist" -- Miscellaneous notes.
+title: The Passenger Pigeon
+url: http://www.gutenberg.org/ebooks/44729
